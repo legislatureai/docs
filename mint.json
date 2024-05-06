@@ -29,11 +29,8 @@
     {
       "group": "Guides",
       "pages": [
-        "essentials/tags",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "guides/tags",
+        "guides/analysts"
       ]
     }
   ],
